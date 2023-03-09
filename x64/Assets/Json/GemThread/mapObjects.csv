@@ -1,0 +1,2 @@
+modelName,layerType,posX,posY,posZ,rotX,rotY,rotZ,scaleX,scaleY,scaleZ,lock
+Camera,Layer_camera,-46.70622635,30.39669609,-59.89141464,26.29936218,32.54182053,0,-46.22399139,29.95363426,-59.13567352,FALSE

@@ -1,0 +1,16 @@
+[
+ {
+   "modelName": "Camera",
+   "layerType": "Layer_camera",
+   "posX": -46.70622635,
+   "posY": 30.39669609,
+   "posZ": -59.89141464,
+   "rotX": 26.29936218,
+   "rotY": 32.54182053,
+   "rotZ": 0,
+   "scaleX": -46.22399139,
+   "scaleY": 29.95363426,
+   "scaleZ": -59.13567352,
+   "lock": false
+ }
+]

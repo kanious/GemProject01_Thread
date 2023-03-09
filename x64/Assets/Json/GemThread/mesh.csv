@@ -1,0 +1,5 @@
+ID,Path,FileName,DataType,Shader_ID,InitSize,MeshType,Texture_ID_Diff,Texture_ID_Normal
+floor,Mesh\GemThread\,SM_Env_Dwarf_Floor_06.ply,2,MeshShader,0.05,floor,dungeon_Tex,
+floor2,Mesh\GemThread\,SM_Env_Dwarf_Floor_02.ply,2,MeshShader,0.05,floor,dungeon_Tex,
+wall,Mesh\GemThread\,SM_Env_Dwarf_Wall_06.ply,2,MeshShader,0.05,wall,dungeon_Tex,
+beholder,Mesh\GemThread\,Beholder.ply,2,MeshShader,0.05,enemy,beholder_Tex,

@@ -1,0 +1,46 @@
+[
+ {
+   "ID": "floor",
+   "Path": "Mesh\\GemThread\\",
+   "FileName": "SM_Env_Dwarf_Floor_06.ply",
+   "DataType": 2,
+   "Shader_ID": "MeshShader",
+   "InitSize": 0.05,
+   "MeshType": "floor",
+   "Texture_ID_Diff": "dungeon_Tex",
+   "Texture_ID_Normal": ""
+ },
+ {
+   "ID": "floor2",
+   "Path": "Mesh\\GemThread\\",
+   "FileName": "SM_Env_Dwarf_Floor_02.ply",
+   "DataType": 2,
+   "Shader_ID": "MeshShader",
+   "InitSize": 0.05,
+   "MeshType": "floor",
+   "Texture_ID_Diff": "dungeon_Tex",
+   "Texture_ID_Normal": ""
+ },
+ {
+   "ID": "wall",
+   "Path": "Mesh\\GemThread\\",
+   "FileName": "SM_Env_Dwarf_Wall_06.ply",
+   "DataType": 2,
+   "Shader_ID": "MeshShader",
+   "InitSize": 0.05,
+   "MeshType": "wall",
+   "Texture_ID_Diff": "dungeon_Tex",
+   "Texture_ID_Normal": ""
+ },
+ {
+   "ID": "beholder",
+   "Path": "Mesh\\GemThread\\",
+   "FileName": "Beholder.ply",
+   "DataType": 2,
+   "Shader_ID": "MeshShader",
+   "InitSize": 0.05,
+   "MeshType": "enemy",
+   "Texture_ID_Diff": "beholder_Tex",
+   "Texture_ID_Normal": ""
+ }
+]

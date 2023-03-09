@@ -1,0 +1,17 @@
+[
+ {
+   "ID": "dungeon_Tex",
+   "Path": "Texture\\GemThread\\",
+   "FileName": "Dungeons_2_Texture_01_A.png"
+ },
+ {
+   "ID": "beholder_Tex",
+   "Path": "Texture\\GemThread\\",
+   "FileName": "Beholder_Base_color.png"
+ },
+ {
+   "ID": "beholder_d_Tex",
+   "Path": "Texture\\GemThread\\",
+   "FileName": "Beholder_Dead.png"
+ }
+]
